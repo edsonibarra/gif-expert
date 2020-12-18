@@ -1,0 +1,15 @@
+.item-container > img {
+    width: 400px;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.card {
+    margin-bottom: 1.7rem;
+    color:black;
+}
+#root {
+    color:white;
+    background-color: #154360;
+}
